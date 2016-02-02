@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<All>         
+        <task>
+              <question>How many official languages does Bolivia have?</question>
+              <option>3</option>
+              <option>14</option>
+              <option>37</option>
+			  <answer>37</answer>
+        </task>         
+        <task>
+              <question>What is the second largest lake in Bolivia called?</question>
+              <option>Poopo</option>
+              <option>Weewa</option>
+              <option>PeePee</option>
+			  <answer>Poopo</answer>
+        </task>         
+        <task>
+              <question>What Bolivian city was powered by Llama dung?</question>
+              <option>Santa Cruz</option>
+              <option>La Paz</option>
+              <option>Trinidad</option>
+			  <answer>La Paz</answer>
+        </task> 
+		<task>
+              <question>Is Bolivia the worlds major exporter of Brazil Nuts?</question>
+              <option>Yes</option>
+              <option>No</option>
+			  <answer>Yes</answer>
+        </task>
+		<task>
+              <question>What is the average size of a Bolivian woman?</question>
+              <option>5'5"</option>
+              <option>5'9</option>
+              <option>4'10"</option>
+			  <answer>4'10</answer>
+        </task>          
+</All>
