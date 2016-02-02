@@ -25,6 +25,7 @@
               <question>Is Bolivia the worlds major exporter of Brazil Nuts?</question>
               <option>Yes</option>
               <option>No</option>
+			  <option>Maybe</option>
 			  <answer>Yes</answer>
         </task>
 		<task>
